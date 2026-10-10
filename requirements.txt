@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+pyarrow>=14
+pillow>=10
+# optional: only used if .mp4 videos are placed in the base folder (EDA reads their metadata)
+# opencv-python-headless>=4.8
+# optional: to regenerate the notebooks from the scripts
+# jupytext>=1.16

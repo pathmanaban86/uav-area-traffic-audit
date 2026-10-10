@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the dataset."
+title: "Auditing Open Drone Trajectories of Area-Based Traffic: analysis code"
+authors:
+  - family-names: Pugazhendi
+    given-names: Pathmanaban
+    affiliation: "Department of Automobile Engineering, Easwari Engineering College, Chennai, India"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-10"
+preferred-citation:
+  type: article
+  title: "Auditing Open Drone Trajectories of Area-Based Traffic: Data Pitfalls and What Cleaned Data Reveal About Two-Wheeler Filtering"
+  authors:
+    - family-names: Pugazhendi
+      given-names: Pathmanaban
+  journal: "Transportation Research Record"
+  status: submitted
+  year: 2026
+references:
+  - type: dataset
+    title: "Microscopic Vehicle Trajectory Datasets from UAV-Collected Video for Heterogeneous, Area-Based Urban Traffic"
+    authors:
+      - family-names: Ali
+        given-names: Yawar
+      - family-names: Rao
+        given-names: K. Ramachandra
+      - family-names: Bhaskar
+        given-names: Ashish
+      - family-names: Chatterjee
+        given-names: Niladri
+    year: 2025
+    doi: 10.5281/zenodo.17745347
